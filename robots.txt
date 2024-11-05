@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://oxijoeno.github.io/nAd/sitemap_index.txt
+Sitemap: https://oxijoeno.github.io/wLs/sitemap_index.txt
+Sitemap: https://oxijoeno.github.io/wiT/sitemap_index.txt
+Sitemap: https://oxijoeno.github.io/xPn/sitemap_index.txt
